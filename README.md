@@ -1,0 +1,2 @@
+So i have decided to learn python from scratch, even though i know some basics of it from my studeis in collage. I will try to uplaod everything I learn for the role of data analyist and this will be the proof and my commitment so see wether i can do it or am i just fluff
+Today marks the begining of this journey which is 11-11-2025 (huh weired i did not know today was 11-11, i guess the univers wants me to do this...)
