@@ -1,17 +1,17 @@
 #Creating variables 
 
-# name = 'Balavanth'
-# number = 8381
-# print(name, number)
+name = 'Balavanth'
+number = 8381
+print(name, number)
 
-# a, b, c = 'apple', 'orange', 'pineapple'        
-# print(a, b, c)
+a, b, c = 'apple', 'orange', 'pineapple'        
+print(a, b, c)
 
-# x = "Python is good it seems"
-# print(x)
+x = "Python is good it seems"
+print(x)
 
-# def some_functio():
-#     print(x)
+def some_functio():
+    print(x)
 
 flower = "rose"
 def flower_functio():
