@@ -40,4 +40,4 @@ for q, obj in students.items():
     print(q)
 
     for z in obj:
-        print(z + ':',obj[z])
+        print(z + ':',obj[z])   
